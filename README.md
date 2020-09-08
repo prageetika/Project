@@ -1,4 +1,4 @@
-# springboot-metroApp
+# Java-metroApp
 
 ![Alt text](images/metroAppDrawIO.jpg?raw=true "Title")
 
